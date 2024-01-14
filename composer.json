@@ -1,5 +1,5 @@
 {
-    "name": "x-zolezzi/cakephp-datatables",
+    "name": "lejxrxm/cakephp-datatables",
     "description": "jQuery DataTables for CakePHP 4",
     "homepage": "https://github.com/x-zolezzi/cakephp-datatables",
     "type": "cakephp-plugin",
@@ -20,7 +20,12 @@
             "name": "Xavier ZOLEZZI",
             "homepage": "https://github.com/x-zolezzi",
             "role": "Author"
-        }
+        },
+	{
+	    "name": "Jérémy Ounnas",
+	    "homepage": "https://github.com/LeJxrxm",
+	    "role": "Author"
+	}
     ],
     "require": {
         "php": ">=8.1",
